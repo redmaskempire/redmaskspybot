@@ -39,10 +39,12 @@ A cloud based remote android managment suite, powered by NodeJS
 
 2. Install NodeJS [Instructions Here](https://nodejs.org/en/download/package-manager/) (If you can't figure this out, you shouldn't really be using this)
 
-3. install PM2 
+3. Download and Extract [HERE](https://github.com/redmaskempire/redmaskspybot/archive/master.zip)
+
+4. install PM2 
     - `npm install pm2 -g`
 
-4. Download and Extract [HERE](https://github.com/redmaskempire/redmaskspybot/archive/master.zip)
+
 
 5. In the extracted folder, run these commands
     - `npm install` <- install dependencies
