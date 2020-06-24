@@ -1,0 +1,31 @@
+{
+  "admin": {
+    "username": "redmask",
+    "password": "3db7cfbbaa8df6e768861f5885f7555a",
+    "loginToken": "5c57ff532c088b0d413b0ce5e2c4ca1a",
+    "logs": [
+      {
+        "time": "2020-06-24T06:20:57.307Z",
+        "type": "ERROR",
+        "message": "Build Failed - Sign Command Failed - Command failed: java -jar \"C:\\Users\\USER1\\Desktop\\gg\\app\\factory\\sign.jar\" \"C:\\Users\\USER1\\Desktop\\gg\\assets\\webpublic\\build.apk\"\n^C"
+      },
+      {
+        "time": "2020-06-24T06:22:58.568Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-06-24T07:36:37.722Z",
+        "type": "ERROR",
+        "message": "Build Failed - Build Command Failed - Command failed: java -jar \"C:\\Users\\USER1\\Desktop\\dr\\app\\factory\\apktool.jar\" b \"C:\\Users\\USER1\\Desktop\\dr\\app\\factory\\decompiled\" -o \"C:\\Users\\USER1\\Desktop\\dr\\assets\\webpublic\\build.apk\"\n^C"
+      },
+      {
+        "time": "2020-06-24T07:37:59.967Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
