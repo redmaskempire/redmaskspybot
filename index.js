@@ -65,7 +65,8 @@ client_io.on('connection', (socket) => {
 
 
 // get the admin interface online
-app.listen(CONST.web_port);
+// app.listen(CONST.web_port);
+server.listen(port, () => console.log(`listening on port ${port}`))
 
 app.set('view engine', 'ejs');
 app.set('views', './assets/views');
