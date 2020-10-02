@@ -18,6 +18,11 @@
     "lowdb": "^1.0.0",
     "socket.io": "^2.2.0"
   }
+  
+  {
+    import * as admin from 'firebase-admin';
+    admin.initializeApp();
+}
 }
   "buildpacks": [
     {
