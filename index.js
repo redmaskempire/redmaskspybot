@@ -1,7 +1,7 @@
 /* 
 *   DroiDrop
 *   An Android Monitoring Tool
-*   By VoidTyphoon.co.uk
+*   By redmask
 */
 
 
